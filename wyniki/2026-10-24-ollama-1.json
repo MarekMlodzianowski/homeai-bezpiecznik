@@ -8,6 +8,17 @@
   ],
   "title": "Ollama 0.35.1 na homeai",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-24T12:04:12+00:00"
+  "status": "odrzucone",
+  "startedAt": "2026-10-24T12:04:12+00:00",
+  "finishedAt": "2026-10-24T12:04:15+00:00",
+  "result": {
+    "ok": false,
+    "code": 3,
+    "action": "ollama",
+    "args": [
+      "0.35.1"
+    ],
+    "rolledBack": false,
+    "summary": "Odmowa: brak /usr/local/bin/ollama"
+  }
 }
