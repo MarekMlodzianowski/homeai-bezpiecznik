@@ -1,0 +1,12 @@
+{
+  "id": "2026-10-24-a-wznow",
+  "executor": "wykonawca 0.1.1",
+  "host": "homeai",
+  "action": "wznow",
+  "args": [],
+  "title": "Wznowienie po 0.1.0",
+  "priority": "wazne",
+  "status": "zrobione",
+  "finishedAt": "2026-10-24T12:04:02+00:00",
+  "summary": "Wznowiony."
+}
