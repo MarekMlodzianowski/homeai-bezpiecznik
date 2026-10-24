@@ -1,0 +1,14 @@
+{
+ "id": "2026-10-24-w1b-lektor",
+ "action": "deploy",
+ "args": [
+  "lektor"
+ ],
+ "commit": "a5dae467416d079d5ed5f66355a80ead1ca9db81",
+ "title": "Lektor 1.1.8: limit syntez + kit 1.2.0 (F11) (ponownie)",
+ "reason": "Pierwsza próba: git fetch nie działał (askpass). F11 i limit Lektora.",
+ "issue": "kit-f11",
+ "priority": "wazne",
+ "created": "2026-10-24T15:00:00+02:00",
+ "createdBy": "Bezpiecznik (chmura)"
+}

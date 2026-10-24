@@ -4,7 +4,7 @@
  "args": [
   "prasowka"
  ],
- "commit": "e10dabcf2379f9bf9b8807ec253ffcf70fcfd546",
+ "commit": "a5dae467416d079d5ed5f66355a80ead1ca9db81",
  "title": "Prasówka 0.5.1: kit 1.2.0 (F11)",
  "reason": "F11: strona z innego portu tej samej nazwy mogła wysłać zapis formularzem text/plain z ciasteczkiem sesji. Wydanie z main 74bc889/1e13f2e.",
  "issue": "kit-f11",

@@ -1,0 +1,13 @@
+{
+ "id": "2026-10-24-node-2",
+ "action": "node",
+ "args": [
+  "24.22.1"
+ ],
+ "title": "Node.js 24.22.1 na homeai (ponownie)",
+ "reason": "node-1: Text file busy; bezpiecznik-root zastępuje teraz pliki zamiast je nadpisywać. CVE-2026-111497.",
+ "issue": "node-cve-2026-111497",
+ "priority": "wazne",
+ "created": "2026-10-24T15:00:00+02:00",
+ "createdBy": "Bezpiecznik (chmura)"
+}

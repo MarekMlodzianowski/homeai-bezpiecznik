@@ -1,0 +1,13 @@
+{
+ "id": "2026-10-24-ollama-2",
+ "action": "ollama",
+ "args": [
+  "0.35.1"
+ ],
+ "title": "Ollama 0.35.1 na homeai (ponownie)",
+ "reason": "ollama-1: szukał tylko /usr/local/bin; teraz też /usr/bin.",
+ "issue": "ollama-0-35-1",
+ "priority": "wazne",
+ "created": "2026-10-24T15:00:00+02:00",
+ "createdBy": "Bezpiecznik (chmura)"
+}
