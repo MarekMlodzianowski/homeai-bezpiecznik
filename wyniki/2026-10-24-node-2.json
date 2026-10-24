@@ -8,6 +8,20 @@
   ],
   "title": "Node.js 24.22.1 na homeai (ponownie)",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-24T12:24:39+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-10-24T12:24:39+00:00",
+  "finishedAt": "2026-10-24T12:24:49+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "node",
+    "args": [
+      "24.22.1"
+    ],
+    "rolledBack": false,
+    "summary": "Node.js 24.19.0 → 24.22.1. Home API i Vibranium działają.",
+    "before": "24.19.0",
+    "after": "24.22.1",
+    "backup": "/var/backups/bezpiecznik/node-v24.19.0-20261024T122443.tar"
+  }
 }
