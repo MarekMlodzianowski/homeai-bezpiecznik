@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-24-w1-lektor",
+  "executor": "wykonawca 0.1.1",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "lektor"
+  ],
+  "title": "Lektor 1.1.8: limit 4 jednoczesnych syntez + kit 1.2.0 (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-24T12:04:35+00:00"
+}
