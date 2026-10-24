@@ -1,0 +1,49 @@
+[
+ {
+  "issue": "kit-f11",
+  "title": "Wydania z kitem 1.2.0: Puls, Pobudka, PetCat, Prasówka, Przestrzeń, Ataraksja, Forma, Momenty, Auto, Design",
+  "device": "homeai",
+  "who": "claude",
+  "priority": "wazne",
+  "note": "limit 10 zmian dziennie; reszta jutro"
+ },
+ {
+  "issue": "f25-brama",
+  "title": "Brama 1.5.0: Wdróż tylko zatwierdzone wydanie (F25)",
+  "device": "homeai",
+  "who": "claude",
+  "priority": "wazne",
+  "note": "homelab-deploy z --expect-revision już zainstalowany"
+ },
+ {
+  "issue": "nr200-updates",
+  "title": "NR200: Node, Tailscale, Chrome, Ollama",
+  "device": "NR200",
+  "who": "marek",
+  "priority": "wazne",
+  "note": "Claude zrobi przez sesję na NR200, gdy powiesz"
+ },
+ {
+  "issue": "nas-tailscale",
+  "title": "NAS: Tailscale 1.58.2, QuickConnect, Web Station",
+  "device": "Synology DS920+",
+  "who": "marek",
+  "priority": "wazne",
+  "note": "aktualizacja w DSM"
+ },
+ {
+  "issue": "mac-firefox",
+  "title": "MacBook: aktualizacja Firefoksa",
+  "device": "MacBook",
+  "who": "marek",
+  "priority": "wazne"
+ },
+ {
+  "issue": "f1-probe",
+  "title": "X-Homelab-User (F1): test na żywo z NR200",
+  "device": "homeai",
+  "who": "claude",
+  "priority": "informacyjne",
+  "note": "poprawka jest w repo od 2026-10-15"
+ }
+]
