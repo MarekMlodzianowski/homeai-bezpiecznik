@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-24-node-2",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "node",
+  "args": [
+    "24.22.1"
+  ],
+  "title": "Node.js 24.22.1 na homeai (ponownie)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-24T12:24:39+00:00"
+}
