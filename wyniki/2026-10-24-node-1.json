@@ -8,6 +8,17 @@
   ],
   "title": "Node.js 24.22.1 na homeai",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-24T12:04:05+00:00"
+  "status": "błąd",
+  "startedAt": "2026-10-24T12:04:05+00:00",
+  "finishedAt": "2026-10-24T12:04:09+00:00",
+  "result": {
+    "ok": false,
+    "code": 5,
+    "action": "node",
+    "args": [
+      "24.22.1"
+    ],
+    "rolledBack": false,
+    "summary": "cp zakończył się kodem 1: cp: cannot create regular file '/usr/local/bin/node': Text file busy"
+  }
 }
