@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-24-w3-skany",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "skany"
+  ],
+  "title": "Skany 0.6.1: kit 1.2.0 (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-24T12:25:33+00:00"
+}
