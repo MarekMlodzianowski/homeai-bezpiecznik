@@ -1,0 +1,12 @@
+{
+  "id": "2026-10-24-b-wznow",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "wznow",
+  "args": [],
+  "title": "Wznowienie po naprawie askpass",
+  "priority": "wazne",
+  "status": "zrobione",
+  "finishedAt": "2026-10-24T12:24:37+00:00",
+  "summary": "Wznowiony."
+}
