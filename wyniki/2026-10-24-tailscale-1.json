@@ -8,6 +8,19 @@
   ],
   "title": "Tailscale 1.104.2 na homeai",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-24T12:04:24+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-10-24T12:04:24+00:00",
+  "finishedAt": "2026-10-24T12:04:33+00:00",
+  "result": {
+    "ok": true,
+    "code": 7,
+    "action": "apt-upgrade",
+    "args": [
+      "tailscale"
+    ],
+    "rolledBack": false,
+    "summary": "tailscale 1.104.2: brak nowszej wersji w apt.",
+    "before": "1.104.2",
+    "after": "1.104.2"
+  }
 }
