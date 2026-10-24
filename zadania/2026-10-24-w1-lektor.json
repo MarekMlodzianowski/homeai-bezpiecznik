@@ -4,7 +4,7 @@
  "args": [
   "lektor"
  ],
- "commit": "1e13f2e8c281fb46e0dec8aef30b11523b7945a6",
+ "commit": "e10dabcf2379f9bf9b8807ec253ffcf70fcfd546",
  "title": "Lektor 1.1.8: limit 4 jednoczesnych syntez + kit 1.2.0 (F11)",
  "reason": "F11: strona z innego portu tej samej nazwy mogła wysłać zapis formularzem text/plain z ciasteczkiem sesji. Wydanie z main 74bc889/1e13f2e.",
  "issue": "lektor-synthesis-limit",
