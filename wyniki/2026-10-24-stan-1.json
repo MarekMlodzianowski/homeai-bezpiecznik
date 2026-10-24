@@ -1,0 +1,11 @@
+{
+  "id": "2026-10-24-stan-1",
+  "executor": "wykonawca 0.1.1",
+  "host": "homeai",
+  "action": "state",
+  "args": [],
+  "title": "Stan homeai po instalacji",
+  "priority": "pilne",
+  "status": "w toku",
+  "startedAt": "2026-10-24T12:04:18+00:00"
+}
