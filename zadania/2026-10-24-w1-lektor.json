@@ -1,0 +1,14 @@
+{
+ "id": "2026-10-24-w1-lektor",
+ "action": "deploy",
+ "args": [
+  "lektor"
+ ],
+ "commit": "1e13f2e8c281fb46e0dec8aef30b11523b7945a6",
+ "title": "Lektor 1.1.8: limit 4 jednoczesnych syntez + kit 1.2.0 (F11)",
+ "reason": "F11: strona z innego portu tej samej nazwy mogła wysłać zapis formularzem text/plain z ciasteczkiem sesji. Wydanie z main 74bc889/1e13f2e.",
+ "issue": "lektor-synthesis-limit",
+ "priority": "wazne",
+ "created": "2026-10-24T12:15:00+02:00",
+ "createdBy": "Bezpiecznik (chmura)"
+}

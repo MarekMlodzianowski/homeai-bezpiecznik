@@ -1,0 +1,11 @@
+{
+ "id": "2026-10-24-a-wznow",
+ "action": "wznow",
+ "args": [],
+ "title": "Wznowienie po 0.1.0",
+ "reason": "Błędy 0.1.0 (Node, Ollama) to błędy wykonawcy, nie usług; 0.1.1 je poprawia.",
+ "issue": "bezpiecznik-0-1-1",
+ "priority": "wazne",
+ "created": "2026-10-24T12:15:00+02:00",
+ "createdBy": "Bezpiecznik (chmura)"
+}
