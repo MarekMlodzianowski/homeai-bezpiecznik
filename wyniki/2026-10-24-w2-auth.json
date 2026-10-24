@@ -8,6 +8,12 @@
   ],
   "title": "Klucz 1.0.9: kit 1.2.0, zapisy z przeglądarki tylko jako JSON (F11)",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-24T12:04:41+00:00"
+  "status": "błąd",
+  "startedAt": "2026-10-24T12:04:41+00:00",
+  "finishedAt": "2026-10-24T12:04:45+00:00",
+  "result": {
+    "ok": false,
+    "code": 6,
+    "summary": "git fetch -q: fatal: cannot exec '/usr/local/lib/bezpiecznik/askpass': No such file or directory\nfatal: could not read Password for 'https://x-access-token@github.com': terminal prompts disabled"
+  }
 }
