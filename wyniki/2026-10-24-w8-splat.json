@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-24-w8-splat",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "splat"
+  ],
+  "title": "Przestrzeń 0.5.10: kit 1.2.0 (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-25T09:01:43+00:00"
+}
