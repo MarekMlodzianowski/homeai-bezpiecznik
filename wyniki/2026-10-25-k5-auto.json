@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-25-k5-auto",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "auto"
+  ],
+  "title": "auto 0.1.4: kit 1.2.0 (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-25T09:18:55+00:00"
+}
