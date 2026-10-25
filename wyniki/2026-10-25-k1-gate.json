@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-25-k1-gate",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "gate"
+  ],
+  "title": "Brama 1.5.0: wdraża tylko zatwierdzoną rewizję (F25) + kit 1.2.0 (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-25T09:18:20+00:00"
+}
