@@ -8,6 +8,19 @@
   ],
   "title": "Brama 1.5.0: wdraża tylko zatwierdzoną rewizję (F25) + kit 1.2.0 (F11)",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-25T09:18:20+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-10-25T09:18:20+00:00",
+  "finishedAt": "2026-10-25T09:18:25+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "deploy",
+    "args": [
+      "gate"
+    ],
+    "rolledBack": false,
+    "summary": "gate: wdrożone a3d8069 → 7334273. Health OK.",
+    "before": "a3d8069",
+    "after": "7334273"
+  }
 }
