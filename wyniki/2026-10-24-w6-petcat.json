@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-24-w6-petcat",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "petcat"
+  ],
+  "title": "PetCat 1.0.11: zapisy tylko jako JSON (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-25T09:00:28+00:00"
+}
