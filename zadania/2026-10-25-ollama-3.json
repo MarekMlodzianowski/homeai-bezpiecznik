@@ -1,0 +1,3 @@
+{"id": "2026-10-25-ollama-3", "action": "ollama", "args": ["0.40.11"], "title": "Ollama 0.34.0 → 0.40.11 na homeai",
+ "reason": "Prasówka 23-24.10: Ollama poniżej 0.35.1 ma znane luki. 0.40.11 to aktualne wydanie stabilne (24.10). Poprzednie próby odmówiły przez brak HOME; poprawione w wykonawcy 0.2.2.", "priority": "wazne",
+ "created": "2026-10-25T20:40:00+01:00", "createdBy": "Bezpiecznik (chmura)"}
