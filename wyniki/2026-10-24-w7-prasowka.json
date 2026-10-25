@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-24-w7-prasowka",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "prasowka"
+  ],
+  "title": "Prasówka 0.5.1: kit 1.2.0 (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-25T09:01:36+00:00"
+}
