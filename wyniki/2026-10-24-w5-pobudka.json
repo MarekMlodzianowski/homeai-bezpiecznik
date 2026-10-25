@@ -8,6 +8,19 @@
   ],
   "title": "Pobudka 0.2.8: kit 1.2.0 (F11)",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-25T09:00:20+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-10-25T09:00:20+00:00",
+  "finishedAt": "2026-10-25T09:00:26+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "deploy",
+    "args": [
+      "pobudka"
+    ],
+    "rolledBack": false,
+    "summary": "pobudka: wdrożone 1a39b88 → a5dae46. Health OK.",
+    "before": "1a39b88",
+    "after": "a5dae46"
+  }
 }
