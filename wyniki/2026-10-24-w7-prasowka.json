@@ -8,6 +8,19 @@
   ],
   "title": "Prasówka 0.5.1: kit 1.2.0 (F11)",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-25T09:01:36+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-10-25T09:01:36+00:00",
+  "finishedAt": "2026-10-25T09:01:41+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "deploy",
+    "args": [
+      "prasowka"
+    ],
+    "rolledBack": false,
+    "summary": "prasowka: wdrożone edabaea → a5dae46. Health OK.",
+    "before": "edabaea",
+    "after": "a5dae46"
+  }
 }
