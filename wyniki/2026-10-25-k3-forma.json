@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-25-k3-forma",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "forma"
+  ],
+  "title": "forma 0.6.1: kit 1.2.0 (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-25T09:18:34+00:00"
+}
