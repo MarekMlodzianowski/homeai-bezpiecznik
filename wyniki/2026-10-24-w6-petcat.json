@@ -8,6 +8,19 @@
   ],
   "title": "PetCat 1.0.11: zapisy tylko jako JSON (F11)",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-25T09:00:28+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-10-25T09:00:28+00:00",
+  "finishedAt": "2026-10-25T09:01:34+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "deploy",
+    "args": [
+      "petcat"
+    ],
+    "rolledBack": false,
+    "summary": "petcat: wdrożone 1a39b88 → a5dae46. Health OK.",
+    "before": "1a39b88",
+    "after": "a5dae46"
+  }
 }
