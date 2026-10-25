@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-25-k2-ataraksja",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "ataraksja"
+  ],
+  "title": "ataraksja 1.21.7: kit 1.2.0 (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-25T09:18:27+00:00"
+}
