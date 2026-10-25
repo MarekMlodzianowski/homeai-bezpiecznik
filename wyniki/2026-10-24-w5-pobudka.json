@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-24-w5-pobudka",
+  "executor": "wykonawca 0.2.0",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "pobudka"
+  ],
+  "title": "Pobudka 0.2.8: kit 1.2.0 (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-25T09:00:20+00:00"
+}
