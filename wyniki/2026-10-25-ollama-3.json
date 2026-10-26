@@ -8,6 +8,20 @@
   ],
   "title": "Ollama 0.34.0 → 0.40.11 na homeai",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-26T07:03:10+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-10-26T07:03:10+00:00",
+  "finishedAt": "2026-10-26T07:03:40+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "ollama",
+    "args": [
+      "0.40.11"
+    ],
+    "rolledBack": false,
+    "summary": "Ollama 0.34.0 → 0.40.11. Słucha tylko na 127.0.0.1:11434.",
+    "before": "0.34.0",
+    "after": "0.40.11",
+    "backup": "/var/backups/bezpiecznik/ollama-0.34.0-20261026T070331.tar"
+  }
 }
