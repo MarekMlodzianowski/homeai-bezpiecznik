@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-25-ollama-3",
+  "executor": "wykonawca 0.2.2",
+  "host": "homeai",
+  "action": "ollama",
+  "args": [
+    "0.40.11"
+  ],
+  "title": "Ollama 0.34.0 → 0.40.11 na homeai",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-26T07:03:10+00:00"
+}
