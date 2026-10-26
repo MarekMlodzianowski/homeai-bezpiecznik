@@ -8,6 +8,19 @@
   ],
   "title": "Prasówka 0.5.2: powrót na aktualny main",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-26T07:03:42+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-10-26T07:03:42+00:00",
+  "finishedAt": "2026-10-26T07:03:47+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "deploy",
+    "args": [
+      "prasowka"
+    ],
+    "rolledBack": false,
+    "summary": "prasowka: wdrożone a5dae46 → 7334273. Health OK.",
+    "before": "a5dae46",
+    "after": "7334273"
+  }
 }
