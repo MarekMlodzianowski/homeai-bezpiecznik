@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-25-k6-design",
+  "executor": "wykonawca 0.2.2",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "design"
+  ],
+  "title": "design 0.1.4: kit 1.2.0 (F11)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-26T07:03:03+00:00"
+}
