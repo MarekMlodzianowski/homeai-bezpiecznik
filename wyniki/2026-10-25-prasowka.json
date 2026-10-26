@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-25-prasowka",
+  "executor": "wykonawca 0.2.2",
+  "host": "homeai",
+  "action": "deploy",
+  "args": [
+    "prasowka"
+  ],
+  "title": "Prasówka 0.5.2: powrót na aktualny main",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-26T07:03:42+00:00"
+}
