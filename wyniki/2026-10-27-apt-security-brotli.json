@@ -1,0 +1,11 @@
+{
+  "id": "2026-10-27-apt-security-brotli",
+  "executor": "wykonawca 0.2.2",
+  "host": "homeai",
+  "action": "apt-security",
+  "args": [],
+  "title": "Poprawki security na homeai (libbrotli1)",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-27T07:02:23+00:00"
+}
