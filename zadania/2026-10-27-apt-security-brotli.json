@@ -1,0 +1,5 @@
+{"id": "2026-10-27-apt-security-brotli", "action": "apt-security", "args": [],
+ "title": "Poprawki security na homeai (libbrotli1)",
+ "reason": "CVE-2026-111497 (Node2Shell, atak w obiegu): libbrotli1 1.2.0-3build1 jest podatna, poprawka Ubuntu 1.2.0-3ubuntu0.1 (Prasówka 2026-10-27).",
+ "issue": "brotli-cve-2026-111497", "priority": "wazne",
+ "created": "2026-10-27T07:40:00+01:00", "createdBy": "Bezpiecznik (chmura)"}
