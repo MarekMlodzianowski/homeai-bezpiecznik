@@ -6,6 +6,556 @@
   "args": [],
   "title": "Stan homeai 28.10",
   "priority": "informacyjne",
-  "status": "w toku",
-  "startedAt": "2026-10-28T07:00:23+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-10-28T07:00:23+00:00",
+  "finishedAt": "2026-10-28T07:00:27+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "state",
+    "args": [],
+    "rolledBack": false,
+    "summary": "Stan homeai: 43 aktualizacji, 0 usług z błędem.",
+    "after": {
+      "kernel": "7.0.0-38-generic",
+      "rebootRequired": false,
+      "upgradable": [
+        {
+          "package": "alsa-ucm-conf",
+          "to": "1.2.15.3-1ubuntu1.7",
+          "from": "1.2.15.3-1ubuntu1.5",
+          "security": false
+        },
+        {
+          "package": "cloud-init-base",
+          "to": "26.2-0ubuntu1~26.04.1",
+          "from": "26.1-0ubuntu3~26.04.1",
+          "security": false
+        },
+        {
+          "package": "cloud-init",
+          "to": "26.2-0ubuntu1~26.04.1",
+          "from": "26.1-0ubuntu3~26.04.1",
+          "security": false
+        },
+        {
+          "package": "dmidecode",
+          "to": "3.6-2ubuntu1",
+          "from": "3.6-2build1",
+          "security": false
+        },
+        {
+          "package": "libaudit-common",
+          "to": "1:4.1.2-1ubuntu0.1",
+          "from": "1:4.1.2-1build1",
+          "security": false
+        },
+        {
+          "package": "libaudit1",
+          "to": "1:4.1.2-1ubuntu0.1",
+          "from": "1:4.1.2-1build1",
+          "security": false
+        },
+        {
+          "package": "libflashrom1",
+          "to": "1.6.0-2ubuntu1.1",
+          "from": "1.6.0-2ubuntu1",
+          "security": false
+        },
+        {
+          "package": "libmp3lame0",
+          "to": "3.101~svn6525+dfsg-2ubuntu0.1",
+          "from": "3.101~svn6525+dfsg-2",
+          "security": false
+        },
+        {
+          "package": "libnetplan1",
+          "to": "1.2-1ubuntu5.1",
+          "from": "1.2-1ubuntu5",
+          "security": false
+        },
+        {
+          "package": "libnss-systemd",
+          "to": "259.9-0ubuntu0.1",
+          "from": "259.5-0ubuntu3.4",
+          "security": false
+        },
+        {
+          "package": "libopeniscsiusr",
+          "to": "2.1.11-3ubuntu3.1",
+          "from": "2.1.11-3ubuntu3",
+          "security": false
+        },
+        {
+          "package": "libpam-systemd",
+          "to": "259.9-0ubuntu0.1",
+          "from": "259.5-0ubuntu3.4",
+          "security": false
+        },
+        {
+          "package": "libsystemd-shared",
+          "to": "259.9-0ubuntu0.1",
+          "from": "259.5-0ubuntu3.4",
+          "security": false
+        },
+        {
+          "package": "libsystemd0",
+          "to": "259.9-0ubuntu0.1",
+          "from": "259.5-0ubuntu3.4",
+          "security": false
+        },
+        {
+          "package": "libudev1",
+          "to": "259.9-0ubuntu0.1",
+          "from": "259.5-0ubuntu3.4",
+          "security": false
+        },
+        {
+          "package": "mdadm",
+          "to": "4.5-5ubuntu1.1",
+          "from": "4.5-5ubuntu1",
+          "security": false
+        },
+        {
+          "package": "netplan-generator",
+          "to": "1.2-1ubuntu5.1",
+          "from": "1.2-1ubuntu5",
+          "security": false
+        },
+        {
+          "package": "netplan.io",
+          "to": "1.2-1ubuntu5.1",
+          "from": "1.2-1ubuntu5",
+          "security": false
+        },
+        {
+          "package": "open-iscsi",
+          "to": "2.1.11-3ubuntu3.1",
+          "from": "2.1.11-3ubuntu3",
+          "security": false
+        },
+        {
+          "package": "open-vm-tools",
+          "to": "2:13.0.10-1ubuntu1.1",
+          "from": "2:13.0.10-1ubuntu1",
+          "security": false
+        },
+        {
+          "package": "python-apt-common",
+          "to": "3.1.0ubuntu1.1",
+          "from": "3.1.0ubuntu1",
+          "security": false
+        },
+        {
+          "package": "python3-apt",
+          "to": "3.1.0ubuntu1.1",
+          "from": "3.1.0ubuntu1",
+          "security": false
+        },
+        {
+          "package": "python3-distupgrade",
+          "to": "1:26.04.27",
+          "from": "1:26.04.23",
+          "security": false
+        },
+        {
+          "package": "python3-netplan",
+          "to": "1.2-1ubuntu5.1",
+          "from": "1.2-1ubuntu5",
+          "security": false
+        },
+        {
+          "package": "rust-coreutils",
+          "to": "0.10.0-1ubuntu2~26.04.1",
+          "from": "0.8.0-0ubuntu3",
+          "security": false
+        },
+        {
+          "package": "snapd",
+          "to": "2.77.1+ubuntu26.04.2",
+          "from": "2.76.3+ubuntu26.04",
+          "security": false
+        },
+        {
+          "package": "sos",
+          "to": "4.11.2-0ubuntu0.1",
+          "from": "4.10.2-1",
+          "security": false
+        },
+        {
+          "package": "systemd-cryptsetup",
+          "to": "259.9-0ubuntu0.1",
+          "from": "259.5-0ubuntu3.4",
+          "security": false
+        },
+        {
+          "package": "systemd-resolved",
+          "to": "259.9-0ubuntu0.1",
+          "from": "259.5-0ubuntu3.4",
+          "security": false
+        },
+        {
+          "package": "systemd-sysv",
+          "to": "259.9-0ubuntu0.1",
+          "from": "259.5-0ubuntu3.4",
+          "security": false
+        },
+        {
+          "package": "systemd",
+          "to": "259.9-0ubuntu0.1",
+          "from": "259.5-0ubuntu3.4",
+          "security": false
+        },
+        {
+          "package": "tailscale",
+          "to": "1.104.4",
+          "from": "1.104.2",
+          "security": false
+        },
+        {
+          "package": "thermald",
+          "to": "2.5.11-0ubuntu1.1",
+          "from": "2.5.11-0ubuntu1",
+          "security": false
+        },
+        {
+          "package": "tmux",
+          "to": "3.6a-2ubuntu0.2",
+          "from": "3.6a-2ubuntu0.1",
+          "security": false
+        },
+        {
+          "package": "ubuntu-kernel-accessories",
+          "to": "1.570.4",
+          "from": "1.570.3",
+          "security": false
+        },
+        {
+          "package": "ubuntu-minimal",
+          "to": "1.570.4",
+          "from": "1.570.3",
+          "security": false
+        },
+        {
+          "package": "ubuntu-pro-client-l10n",
+          "to": "38ubuntu0~26.04",
+          "from": "37.2ubuntu0.1",
+          "security": false
+        },
+        {
+          "package": "ubuntu-pro-client",
+          "to": "38ubuntu0~26.04",
+          "from": "37.2ubuntu0.1",
+          "security": false
+        },
+        {
+          "package": "ubuntu-release-upgrader-core",
+          "to": "1:26.04.27",
+          "from": "1:26.04.23",
+          "security": false
+        },
+        {
+          "package": "ubuntu-server-minimal",
+          "to": "1.570.4",
+          "from": "1.570.3",
+          "security": false
+        },
+        {
+          "package": "ubuntu-server",
+          "to": "1.570.4",
+          "from": "1.570.3",
+          "security": false
+        },
+        {
+          "package": "ubuntu-standard",
+          "to": "1.570.4",
+          "from": "1.570.3",
+          "security": false
+        },
+        {
+          "package": "udev",
+          "to": "259.9-0ubuntu0.1",
+          "from": "259.5-0ubuntu3.4",
+          "security": false
+        }
+      ],
+      "versions": {
+        "node": "24.22.1",
+        "ollama": "0.40.11",
+        "tailscale": "1.104.2",
+        "nginx": "1.28.3-2ubuntu1.12",
+        "openssh-server": "1:10.2p1-2ubuntu3.8",
+        "openssl": "3.5.5-1ubuntu3.7"
+      },
+      "failedUnits": [],
+      "listening": [
+        "*:21115",
+        "*:21116",
+        "*:21117",
+        "*:21118",
+        "*:21119",
+        "0.0.0.0:22",
+        "0.0.0.0:443",
+        "0.0.0.0:80",
+        "0.0.0.0:8080",
+        "0.0.0.0:8081",
+        "0.0.0.0:8082",
+        "0.0.0.0:8083",
+        "0.0.0.0:8084",
+        "0.0.0.0:8085",
+        "0.0.0.0:8086",
+        "0.0.0.0:8088",
+        "0.0.0.0:8089",
+        "0.0.0.0:8090",
+        "0.0.0.0:8091",
+        "0.0.0.0:8092",
+        "0.0.0.0:8093",
+        "0.0.0.0:8094",
+        "0.0.0.0:8095",
+        "0.0.0.0:8096",
+        "0.0.0.0:8097",
+        "0.0.0.0:8098",
+        "0.0.0.0:8099",
+        "0.0.0.0:8100",
+        "0.0.0.0:8101",
+        "0.0.0.0:8102",
+        "100.85.95.78%tailscale0:38981",
+        "127.0.0.1:11434",
+        "127.0.0.1:3000",
+        "127.0.0.1:3001",
+        "127.0.0.1:3002",
+        "127.0.0.1:3003",
+        "127.0.0.1:3004",
+        "127.0.0.1:3005",
+        "127.0.0.1:3006",
+        "127.0.0.1:3008",
+        "127.0.0.1:3009",
+        "127.0.0.1:3010",
+        "127.0.0.1:3011",
+        "127.0.0.1:3012",
+        "127.0.0.1:3013",
+        "127.0.0.1:3014",
+        "127.0.0.1:3015",
+        "127.0.0.1:3016",
+        "127.0.0.1:3018",
+        "127.0.0.1:3019",
+        "127.0.0.1:3020",
+        "127.0.0.1:3021",
+        "127.0.0.1:3022",
+        "127.0.0.1:3023",
+        "127.0.0.1:3024",
+        "127.0.0.1:3025",
+        "127.0.0.1:50001",
+        "127.0.0.53%lo:53",
+        "127.0.0.54:53",
+        "192.168.1.107:53",
+        "[::]:22",
+        "[::]:443",
+        "[::]:80",
+        "[fd7a:115c:a1e0::912e:5f50]%tailscale0:41623"
+      ],
+      "ufw": "Status: active",
+      "diskFreeGiB": 394.2,
+      "apps": {
+        "ataraksja": {
+          "ok": true,
+          "code": null,
+          "app": "ataraksja",
+          "before": "7334273",
+          "after": "7334273",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "auth": {
+          "ok": true,
+          "code": null,
+          "app": "auth",
+          "before": "5a27c2d",
+          "after": "5a27c2d",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "auto": {
+          "ok": true,
+          "code": null,
+          "app": "auto",
+          "before": "7334273",
+          "after": "7334273",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "bezpiecznik-panel": {
+          "ok": true,
+          "code": null,
+          "app": "bezpiecznik-panel",
+          "before": "edabaea",
+          "after": "edabaea",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "cerber": {
+          "ok": true,
+          "code": null,
+          "app": "cerber",
+          "before": "a3d8069",
+          "after": "a3d8069",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "design": {
+          "ok": true,
+          "code": null,
+          "app": "design",
+          "before": "7334273",
+          "after": "7334273",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "dzielnicowy": {
+          "ok": true,
+          "code": null,
+          "app": "dzielnicowy",
+          "before": "6a8d26c",
+          "after": "6a8d26c",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "forma": {
+          "ok": true,
+          "code": null,
+          "app": "forma",
+          "before": "7334273",
+          "after": "7334273",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "gate": {
+          "ok": true,
+          "code": null,
+          "app": "gate",
+          "before": "7334273",
+          "after": "7334273",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "home": {
+          "ok": true,
+          "code": null,
+          "app": "home",
+          "before": "f704c81051b54c2d7395a41dec479eb66b6e83b0",
+          "after": "f704c81051b54c2d7395a41dec479eb66b6e83b0",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "kalendarz": {
+          "ok": true,
+          "code": null,
+          "app": "kalendarz",
+          "before": "2026-10-04T19:56:31Z 1e4ae54be90f",
+          "after": "2026-10-04T19:56:31Z 1e4ae54be90f",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "lektor": {
+          "ok": true,
+          "code": null,
+          "app": "lektor",
+          "before": "a5dae46",
+          "after": "a5dae46",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "momenty": {
+          "ok": true,
+          "code": null,
+          "app": "momenty",
+          "before": "7334273",
+          "after": "7334273",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "oko": {
+          "ok": true,
+          "code": null,
+          "app": "oko",
+          "before": "3ae5335",
+          "after": "3ae5335",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "petcat": {
+          "ok": true,
+          "code": null,
+          "app": "petcat",
+          "before": "a5dae46",
+          "after": "a5dae46",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "pobudka": {
+          "ok": true,
+          "code": null,
+          "app": "pobudka",
+          "before": "a5dae46",
+          "after": "a5dae46",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "prasowka": {
+          "ok": true,
+          "code": null,
+          "app": "prasowka",
+          "before": "7334273",
+          "after": "7334273",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "przemiana": {
+          "ok": true,
+          "code": null,
+          "app": "przemiana",
+          "before": "1a39b88",
+          "after": "1a39b88",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "puls": {
+          "ok": true,
+          "code": null,
+          "app": "puls",
+          "before": "ae3ee45",
+          "after": "ae3ee45",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "skany": {
+          "ok": true,
+          "code": null,
+          "app": "skany",
+          "before": "5a27c2d",
+          "after": "5a27c2d",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "splat": {
+          "ok": true,
+          "code": null,
+          "app": "splat",
+          "before": "a5dae46",
+          "after": "a5dae46",
+          "rolledBack": false,
+          "process": "active"
+        },
+        "vibranium": {
+          "ok": true,
+          "code": null,
+          "app": "vibranium",
+          "before": "1923b437cfc8d527f05e7c674394a4e008d95a0a",
+          "after": "1923b437cfc8d527f05e7c674394a4e008d95a0a",
+          "rolledBack": false,
+          "process": "active"
+        }
+      }
+    }
+  }
 }
