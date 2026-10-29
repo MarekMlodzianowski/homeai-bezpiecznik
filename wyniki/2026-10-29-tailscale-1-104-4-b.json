@@ -1,0 +1,13 @@
+{
+  "id": "2026-10-29-tailscale-1-104-4-b",
+  "executor": "wykonawca 0.2.2",
+  "host": "homeai",
+  "action": "apt-upgrade",
+  "args": [
+    "tailscale"
+  ],
+  "title": "Tailscale 1.104.4 na homeai",
+  "priority": "wazne",
+  "status": "w toku",
+  "startedAt": "2026-10-29T07:19:42+00:00"
+}
