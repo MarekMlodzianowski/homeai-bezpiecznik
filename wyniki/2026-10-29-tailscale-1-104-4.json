@@ -8,6 +8,17 @@
   ],
   "title": "Tailscale 1.104.4 na homeai",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-29T07:03:08+00:00"
+  "status": "błąd",
+  "startedAt": "2026-10-29T07:03:08+00:00",
+  "finishedAt": "2026-10-29T07:03:13+00:00",
+  "result": {
+    "ok": false,
+    "code": 5,
+    "action": "apt-upgrade",
+    "args": [
+      "tailscale"
+    ],
+    "rolledBack": false,
+    "summary": "apt-get zakończył się kodem 100: E: Could not get lock /var/lib/dpkg/lock-frontend. It is held by process 1501548 (apt-get)\nE: Unable to acquire the dpkg frontend lock (/var/lib/dpkg/lock-frontend), is another process using it?"
+  }
 }
