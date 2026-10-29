@@ -8,6 +8,20 @@
   ],
   "title": "Tailscale 1.104.4 na homeai",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-10-29T07:19:42+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-10-29T07:19:42+00:00",
+  "finishedAt": "2026-10-29T07:19:55+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "apt-upgrade",
+    "args": [
+      "tailscale"
+    ],
+    "rolledBack": false,
+    "summary": "tailscale: 1.104.2 → 1.104.4.",
+    "before": "1.104.2",
+    "after": "1.104.4",
+    "output": "Preparing to unpack .../tailscale_1.104.4_amd64.deb ...\nUnpacking tailscale (1.104.4) over (1.104.2) ...\nSetting up tailscale (1.104.4) ...\n\nRunning kernel seems to be up-to-date.\n\nThe processor microcode seems to be up-to-date.\n\nNo services need to be restarted.\n\nNo containers need to be restarted.\n\nNo user sessions are running outdated binaries.\n\nNo VM guests are running outdated hypervisor (qemu) binaries on this host."
+  }
 }
