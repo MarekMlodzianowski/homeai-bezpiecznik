@@ -1,49 +1,34 @@
 [
  {
-  "issue": "kit-f11",
-  "title": "Wydania z kitem 1.2.0: Puls, Pobudka, PetCat, Prasówka, Przestrzeń, Ataraksja, Forma, Momenty, Auto, Design",
+  "issue": "linux-cve-2026-98432",
+  "title": "CVE-2026-98432: osłona TCP działa, czeka poprawka jądra",
   "device": "homeai",
   "who": "claude",
-  "priority": "wazne",
-  "note": "limit 10 zmian dziennie; reszta jutro"
- },
- {
-  "issue": "f25-brama",
-  "title": "Brama 1.5.0: Wdróż tylko zatwierdzone wydanie (F25)",
-  "device": "homeai",
-  "who": "claude",
-  "priority": "wazne",
-  "note": "homelab-deploy z --expect-revision już zainstalowany"
+  "priority": "pilne",
+  "note": "05.11: reguła nftables przetestowana po LAN i Tailscale, także po restarcie. GRUB domyślnie 7.0.0-42, które nie zawiera poprawki. Zostawić osłonę do startu załatanego jądra."
  },
  {
   "issue": "nr200-updates",
-  "title": "NR200: Node, Tailscale, Chrome, Ollama",
+  "title": "NR200: sprawdź Chrome i APT w WSL",
   "device": "NR200",
   "who": "marek",
   "priority": "wazne",
-  "note": "Claude zrobi przez sesję na NR200, gdy powiesz"
+  "note": "Node, Ollama i poprawki Tailscale 1.104.4 potwierdzone. Została kontrola Chrome Stable i APT w obu dystrybucjach WSL."
  },
  {
   "issue": "nas-tailscale",
-  "title": "NAS: Tailscale 1.58.2, QuickConnect, Web Station",
+  "title": "NAS: sprawdź ustawienia QuickConnect i Web Station",
   "device": "Synology DS920+",
   "who": "marek",
   "priority": "wazne",
-  "note": "aktualizacja w DSM"
+  "note": "Prasówka z 30.10 potwierdza Tailscale 1.104.4. Został przegląd ustawień w DSM."
  },
  {
   "issue": "mac-firefox",
-  "title": "MacBook: aktualizacja Firefoksa",
+  "title": "MacBook: zaktualizuj Firefoksa i Chrome",
   "device": "MacBook",
   "who": "marek",
-  "priority": "wazne"
- },
- {
-  "issue": "f1-probe",
-  "title": "X-Homelab-User (F1): test na żywo z NR200",
-  "device": "homeai",
-  "who": "claude",
-  "priority": "informacyjne",
-  "note": "poprawka jest w repo od 2026-10-15"
+  "priority": "wazne",
+  "note": "Odczyt 05.11: Firefox 158.0.1 i Chrome 156.0.8078.80. Tailscale 1.104.4 potwierdzony."
  }
 ]
