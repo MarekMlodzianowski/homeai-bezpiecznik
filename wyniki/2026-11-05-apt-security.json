@@ -6,6 +6,19 @@
   "args": [],
   "title": "Poprawki bezpieczeństwa (APT CVE-2026-109518)",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-11-05T07:03:02+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-11-05T07:03:02+00:00",
+  "finishedAt": "2026-11-05T07:03:11+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "apt-security",
+    "args": [],
+    "rolledBack": false,
+    "summary": "Poprawki security: przed 0, po 0. Serwer czeka na restart (krok Marka).",
+    "before": 0,
+    "after": 0,
+    "output": "Starting unattended upgrades script\nAllowed origins are: o=Ubuntu,a=resolute, o=Ubuntu,a=resolute-security, o=UbuntuESMApps,a=resolute-apps-security, o=UbuntuESM,a=resolute-infra-security\nInitial blacklist: \nInitial whitelist (not strict): \nNo packages found that can be upgraded unattended and no pending auto-removals",
+    "rebootRequired": true
+  }
 }
