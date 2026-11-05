@@ -1,0 +1,3 @@
+{"id": "2026-11-05-apt-security", "action": "apt-security", "args": [], "title": "Poprawki bezpieczeństwa (APT CVE-2026-109518)",
+ "reason": "Prasówka 5.11 apt-cve-2026-109518: Ubuntu wydaje poprawkę APT (podmiana pakietu przez MitM).", "issue": "apt-cve-2026-109518", "priority": "wazne",
+ "created": "2026-11-05T06:45:00+01:00", "createdBy": "Bezpiecznik (chmura)"}
