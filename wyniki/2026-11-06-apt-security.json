@@ -6,6 +6,19 @@
   "args": [],
   "title": "Poprawka APT (USN-8996-1)",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-11-06T12:05:32+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-11-06T12:05:32+00:00",
+  "finishedAt": "2026-11-06T12:05:57+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "apt-security",
+    "args": [],
+    "rolledBack": false,
+    "summary": "Poprawki security: przed 1, po 0.",
+    "before": 1,
+    "after": 0,
+    "output": "(Reading database ... 15%\n(Reading database ... 20%\n(Reading database ... 25%\n(Reading database ... 30%\n(Reading database ... 35%\n(Reading database ... 40%\n(Reading database ... 45%\n(Reading database ... 50%\n(Reading database ... 55%\n(Reading database ... 60%\n(Reading database ... 65%\n(Reading database ... 70%\n(Reading database ... 75%\n(Reading database ... 80%\n(Reading database ... 85%\n(Reading database ... 90%\n(Reading database ... 95%\n(Reading database ... 100%\n(Reading database ... 146083 files and directories currently installed.)\nPreparing to unpack .../ca-certificates_20260816ubuntu0.26.04.2_all.deb ...\nUnpacking ca-certificates (20260816ubuntu0.26.04.2) over (20260816ubuntu0.26.04.1) ...\nSetting up ca-certificates (20260816ubuntu0.26.04.2) ...\nUpdating certificates in /etc/ssl/certs...\n0 added, 0 removed; done.\nRunning hooks in /etc/ca-certificates/update.d...\ndone.\nProcessing triggers for man-db (2.13.1-1build1) ...\n\nRunning kernel seems to be up-to-date.\n\nThe processor microcode seems to be up-to-date.\n\nNo services need to be restarted.\n\nNo containers need to be restarted.\n\nNo user sessions are running outdated binaries.\n\nNo VM guests are running outdated hypervisor (qemu) binaries on this host.\nAll upgrades installed",
+    "rebootRequired": false
+  }
 }
