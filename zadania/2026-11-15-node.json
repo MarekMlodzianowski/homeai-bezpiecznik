@@ -1,0 +1,13 @@
+{
+ "id": "2026-11-15-node",
+ "action": "node",
+ "args": [
+  "24.22.3"
+ ],
+ "title": "Node.js 24.22.3 na homeai",
+ "reason": "Biuletyn Node.js 11.11 (HIGH, m.in. CVE-2026-123864, CVE-2026-123872, CVE-2026-123874). homeai ma 24.22.1.",
+ "issue": "nodejs-2026-11",
+ "priority": "wazne",
+ "created": "2026-11-15T06:40:00+01:00",
+ "createdBy": "Bezpiecznik (chmura)"
+}
