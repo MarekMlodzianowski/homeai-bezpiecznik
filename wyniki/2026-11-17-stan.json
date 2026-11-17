@@ -1,0 +1,11 @@
+{
+  "id": "2026-11-17-stan",
+  "executor": "wykonawca 0.2.2",
+  "host": "homeai",
+  "action": "state",
+  "args": [],
+  "title": "Stan homeai 17.11",
+  "priority": "informacyjne",
+  "status": "w toku",
+  "startedAt": "2026-11-17T07:00:47+00:00"
+}
