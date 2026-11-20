@@ -8,6 +8,20 @@
   ],
   "title": "nginx 1.28.3-2ubuntu1.13 na homeai",
   "priority": "wazne",
-  "status": "w toku",
-  "startedAt": "2026-11-20T07:00:47+00:00"
+  "status": "zrobione",
+  "startedAt": "2026-11-20T07:00:47+00:00",
+  "finishedAt": "2026-11-20T07:01:17+00:00",
+  "result": {
+    "ok": true,
+    "code": 0,
+    "action": "apt-upgrade",
+    "args": [
+      "nginx"
+    ],
+    "rolledBack": false,
+    "summary": "nginx: 1.28.3-2ubuntu1.13 → 1.28.3-2ubuntu1.14.",
+    "before": "1.28.3-2ubuntu1.13",
+    "after": "1.28.3-2ubuntu1.14",
+    "output": " /etc/needrestart/restart.d/dbus.service\n systemctl restart getty@tty1.service\n systemctl restart networkd-dispatcher.service\n systemctl restart systemd-logind.service\n systemctl restart unattended-upgrades.service\n systemctl restart wpa_supplicant.service\n\nNo containers need to be restarted.\n\nUser sessions running outdated binaries:\n home_ai @ session #5: tmux: server[6800]\n home_ai @ user manager: (sd-pam)[6062]\n home_ai @ user service: dbus.service[6121], mpris-proxy.service[6118]\n\nNo VM guests are running outdated hypervisor (qemu) binaries on this host."
+  }
 }
